@@ -1,0 +1,93 @@
+<html>
+<head>
+    <title>Signup</title>
+</head>
+<body bgcolor="lightgrey">
+    <p align="center"><Font face="Lucida Calligraphy" color="blue" size="7">CARE SOLUTIONS</Font></p>
+    <hr size="4" color="Orange" />
+        <table align="center">
+        <tr>
+            <td><Font face="Lucida Calligraphy" color="blue" size="5"><u>Enter Your Details</u></Font></td>
+        </tr>
+        <Form method="post" action="">
+    </table><br />
+    <b>
+        <font face="Lucida Calligraphy" color="maroon" size="3">
+            <table align="center" border="5">
+                <tr>
+                    <td>
+                        First Name : <input id="Text1" type="text" /> Last Name : <input id="Text2" type="text" value="optional" />
+                        Intial : <input id="Text2" type="text" size="4"/>
+                    </td>
+                </tr>
+                <tr><td> Mobile No: <input id="Text3" type="text" /></td></tr>
+                <tr><td> Address : <textarea id="Text4"></textarea></td></tr>
+                <tr><td> City : <input id="Text5" type="text" /> Pincode : <input id="Text6" type="text" /> </td></tr>
+                <tr>
+                    <td>
+                        State: <select>
+                            <option value="None"></option>
+                            <option value="TamilNadu">TamilNadu</option>
+                            <option value="Karnataka">Karnataka</option>
+                            <option value="Puducherry">Puducherry</option>
+                            <option value="Kerala">Kerala</option>
+                            <option value="Andhra Pradesh">Andhra Pradesh</option>
+                        </select>
+                        DOB : <input id="Text7" type="text" size="4" />
+                        <select>
+                            <option value="None"></option>
+                            <option value="Jan">Jan</option>
+                            <option value="Feb">Feb</option>
+                            <option value="Mar">Mar</option>
+                            <option value="Apr">Apr</option>
+                            <option value="May">May</option>
+                            <option value="Jun">Jun</option>
+                            <option value="Jul">Jul</option>
+                            <option value="Aug">Aug</option>
+                            <option value="Sep">Sep</option>
+                            <option value="Oct">Occt</option>
+                            <option value="Nov">Nov</option>
+                            <option value="Dec">Dec</option>
+                        </select>
+                        <input id="Text7" type="text" size="5" />
+                    </td>
+                </tr>
+                <tr><td>Email id: <input id="Text8" type="text" size="35" /> </td>
+                <tr>
+                    <td>
+                        Valid Proof : <select>
+                            <option value="None1"></option>
+                            <option value="AadharCard">Aadhar Card</option>
+                            <option value="Driving License">Driving License</option>
+                            <option value="PANCard">PANCARD</option>
+                            <option value="Passport">Passport</option>
+                            <option value="VoterID">VoterID</option>
+                        </select><input id="Text9" type="text" size="25" />
+                    </td>
+                </tr>
+             </table><br />
+        </font>
+    </b>
+    <font face="verdana" color="purple">
+        <table align="Center"border="4">
+            <tr><td align="center"><u><b>Select your Password</b></u></td></tr>
+            <tr><td> Enter your Password &nbsp&nbsp&nbsp: <input id="Text10" type="text" /></td></tr>
+            <tr><td>Reenter your Password : <input id="Text11" type="text" /></td></tr>
+        </table>
+    </font><br />
+    <table align="Center">
+        <tr>
+            <td>
+                <input id="Submit1" type="submit" value="Submit"/>
+            </td>
+            <td>
+                <input id="Button1" type="button" value="Clear" />
+            </td> 
+<td><a href = "C:\Users\ven002\Desktop\Macro\Details.html"> <font face = "verdana" size ="4">Back</a>
+</td></tr>
+    </table>
+    </form>
+    <hr size="3" color="orange" />
+    <p align="Right"><font face="verdana" Color="Green"><A href="">Contact Us</A> |<a href="">Help</a></font></p>
+</body>
+</html>

@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Details about Site</title>
+</head>
+<body>
+<p align ="center">
+</p>
+<hr size ="3" color = "orange"><hr>
+<p align ="center"> ContactUs | help </p>
+</body>
+</hmtl>

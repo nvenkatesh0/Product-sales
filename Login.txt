@@ -1,0 +1,29 @@
+<<Html>
+<head>
+<title>Login Page</title>
+</head>
+<body bgcolor = "Lightgrey"><br><br><br><br>
+<Table align ="center">
+<tr><td> <U><font Face = "verdana" size = "5" color = "Orange">Enter your Details </u></font></td></tr>
+</table>
+<form method ="post">
+<table align = "center"border = "2">
+<tr></tr>
+<tr><td><b><font Face = "verdana" size = "3" color ="maroon">
+User ID&nbsp&nbsp&nbsp&nbsp: <input type = "text"></td></tr>
+<tr><td><b><font Face = "verdana" size = "3" color ="maroon"> Password : <input type - "text"></td><tr>
+</table>
+<table align = "center">
+<tr><td align = "right"> <font Face = "verdana" size = "3">
+<a href =""> Forgot Password </a></td></tr>
+</table>
+<table align ="center">
+<tr><td> <input type = "submit" value = "Submit"> <td>
+<td> <input type = "submit" value = "Cancel"> <td></tr>
+</table>
+</form>
+<table align ="center">
+<tr><td><a href ="C:\Users\ven002\Desktop\Macro\2.html"><font face = "verdana" size ="4">Back</a>
+</body>
+</html>
+
